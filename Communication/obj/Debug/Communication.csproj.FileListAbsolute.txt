@@ -4,3 +4,9 @@ C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Communication\obj\Debug\C
 C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Communication\obj\Debug\Communication.dll
 C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Communication\obj\Debug\Communication.pdb
+C:\Users\diego\Desktop\Computadores\TrabajoGrupal\Communication\bin\Debug\Communication.dll
+C:\Users\diego\Desktop\Computadores\TrabajoGrupal\Communication\bin\Debug\Communication.pdb
+C:\Users\diego\Desktop\Computadores\TrabajoGrupal\Communication\obj\Debug\Communication.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Computadores\TrabajoGrupal\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Computadores\TrabajoGrupal\Communication\obj\Debug\Communication.dll
+C:\Users\diego\Desktop\Computadores\TrabajoGrupal\Communication\obj\Debug\Communication.pdb
