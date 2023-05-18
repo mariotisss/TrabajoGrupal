@@ -1,0 +1,6 @@
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Communication\bin\Debug\Communication.dll
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Communication\bin\Debug\Communication.pdb
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Communication\obj\Debug\Communication.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Communication\obj\Debug\Communication.dll
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Communication\obj\Debug\Communication.pdb

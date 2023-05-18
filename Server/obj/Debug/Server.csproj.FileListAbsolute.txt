@@ -1,0 +1,11 @@
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Server\bin\Debug\Server.exe.config
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Server\bin\Debug\Server.exe
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Server\bin\Debug\Server.pdb
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Server\bin\Debug\Communication.dll
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Server\bin\Debug\Communication.pdb
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Server\obj\Debug\Server.exe
+C:\Users\Usuario\Source\Repos\mariotisss\TrabajoGrupal\Server\obj\Debug\Server.pdb
